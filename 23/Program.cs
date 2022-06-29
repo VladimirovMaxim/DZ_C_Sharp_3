@@ -9,7 +9,7 @@ void CubeLine(int N)
     while( count <= N)
     {
         int cube = count * count * count;
-        Console.Write(cube + " ");
+        Console.Write(cube + ", ");
         count ++;
     }
   
